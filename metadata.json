@@ -1,0 +1,8 @@
+{
+  "name": "RigLog Pro: Engineering Test Rig Capture",
+  "description": "A high-performance logging interface for test rig engineers featuring manual entries, AI-powered analysis, and hands-free voice-to-log capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
